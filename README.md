@@ -1,5 +1,3 @@
-# Lisbon-Real-Estate-Analytics
-Análise preditiva de imóveis em Lisboa usando Ridge Regression.
 # Lisbon Real Estate Analytics 🏡
 
 A data science project to estimate fair real estate prices in Lisbon using **Ridge Regression ($L_2$ Regularization)**.
